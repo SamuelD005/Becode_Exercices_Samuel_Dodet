@@ -38,7 +38,7 @@ Note: The ultimate goal is the mindset, not specific tools. For that reason the 
 Read the following documents:
 
 1. Read the [Pedagogical Contract](https://github.com/becodeorg/BeCode/blob/master/educationalcontractAI.md)
-2. If you need a refresher, here is the presentation about the [rules](https://docs.google.com/presentation/d/1amJUYlbBJ3JWmU6lf0GZU0CgnfoFhcieBhM-y6ODHxs/edit#slide=id.p1)
+2. If you need a refresher, here is the presentation about the [rules](https://docs.google.com/presentation/d/1amJUYlbBJ3JWmU6lf0GZU0CgnfoFhcieBhM-y6ODHxs/edit?usp=sharing)
 
 
 ## Respect for planning: being late & absence
