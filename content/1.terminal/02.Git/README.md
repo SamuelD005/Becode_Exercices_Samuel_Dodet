@@ -24,6 +24,14 @@ It also serves as a place to put your code. It is the biggest online developer c
  - [Exercise : Configure Git](2.Configure-Git.md)
  - [Exercise : Git training](3.Git-Training.md)
  - [Exercise : Git collage](4.Git-Collage.md)
+
+## Forking the original BeCode repository
+
+Because sometimes you want to get the original BeCode repository updates to get new exercises without overriding your 
+modified files AND still be able push your version on github without overriding the original repository. The main method
+to do so is called forking and is available here. Other options are also detailed but forking is heavily recommended.
+
+[Forking with Github](GitYourOwnRepo.pdf)
  
 [Back to the fields](../)
 
